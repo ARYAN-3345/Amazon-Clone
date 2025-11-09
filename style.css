@@ -222,7 +222,7 @@ h2{
 
 .foot-panel{
     background-color: #37475a;
-    color: white;
+    color: rgb(255, 254, 254);
     height: 50px;
     display: flex;
     justify-content: center;
